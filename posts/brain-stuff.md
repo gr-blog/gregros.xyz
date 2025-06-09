@@ -1,19 +1,10 @@
 ---
-title: What is a DOM node? A peek under the hood
+title: Brain stuff
 description: ...
 published: 2025-01-01
 updated: 2025-01-11
 ---
-What makes an object a DOM node? Is it the prototype or something else? 
-
-The answer turns out to be surprisingly complicated!
-
----
-The best way to investigate what the browser sees as a DOM node is to use a function that’s supposed to accept one, and pass it various things, and see what happens!
-
-The classic example is `appendChild`. This method accepts a DOM node and inserts it as the child of another node. If you pass the method just a regular old object, it will error instead.
-
-Here is some code to illustrate this:
+Helllo this is about the brain
 ```js
 // Create an element
 var div = document.createElement("div")

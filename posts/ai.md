@@ -1,5 +1,5 @@
 ---
-title: Debug webpages with code using the inspector's internal API
+title: AI is goodbad
 published: 2025-04-17
 updated: 2025-04-17
 description: ...
