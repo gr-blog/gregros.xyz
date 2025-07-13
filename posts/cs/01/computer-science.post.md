@@ -1,15 +1,15 @@
 ---
 title: Computer science is a thing
 series: web
-description: ...
+description: ""
 published: 2025-01-01
 updated: 2025-01-11
 ---
 
-Iframes are omnipresent and extremely useful, yet they are also complicated and confusing.
+Iframes are omnipresent and extremely useful, yet they're are also complicated and confusing.
 
 Let’s take a broad look at how they work.
 
 ---
 
-dfsfdsf
+words word1 word
