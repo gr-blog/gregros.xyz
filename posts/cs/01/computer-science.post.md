@@ -6,7 +6,7 @@ published: 2025-01-01
 updated: 2025-01-11
 ---
 
-Iframes are omnipresent and extremely useful, yet they're are also complicated and confusing.
+Iframes are omnipresent and very useful, yet they're are also complicated and confusing.
 
 Let’s take a broad look at how they work.
 
